@@ -1,6 +1,6 @@
 <!-- ![header](microsoft-certified-azure-fundamentals-120.png) -->
 
-<h2 align="center">Tech I love 💕</h2>
+<h3 align="center">Tech I love 💕</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,supabase,postgres,svelte" />
@@ -10,11 +10,11 @@
 <br>
 
 <h1 align="center"> Hire me! ༼ つ ◕_◕ ༽つ  </h1>
-<h2 align="center"> <sub><sup><sub><sup> Hire me pls :) <sup> as a Junior Dev </sup> </sup></sub></sup></sub> </h2>
+<h3 align="center"> <sub><sup><sub><sup> Hire me pls :) <sup> as a Junior Dev </sup> </sup></sub></sup></sub> </h3>
 
 
 
-<h2 align="center">Backends/Infra:</h2>
+<h3 align="center">Backends/Infra:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=supabase,aws,azure,gcp,firebase,linux,docker,nginx,heroku" />
@@ -23,7 +23,7 @@
 
 <br>
 
-<h2 align="center">Languages:</h2>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,go,ts,python,postgres,cs,java" />
@@ -32,7 +32,7 @@
 
 <br>
 
-<h2 align="center">Databases:</h2>
+<h3 align="center">Databases:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,dynamodb" />
@@ -41,7 +41,7 @@
 
 <br>
 
-<h2 align="center">Frontend:</h2>
+<h3 align="center">Frontend:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,tailwind,js,ts,jquery,html,bootstrap,css" />
@@ -50,7 +50,7 @@
 
 <br>
 
-<h2 align="center">Other Tech:</h2>
+<h3 align="center">Other Tech:</h3>
 
 
 <p align="center">
@@ -81,14 +81,14 @@ Make.com (formerly Integromat) |          Zapier           |          n8n
 <br>
 <br>
 
-<!-- <h2 align="center">Certifications</h2> -->
-<h2 align="center">AZ-900 Azure Fundamentals Certified</h2>
+<!-- <h3 align="center">Certifications</h3> -->
+<h3 align="center">AZ-900 Azure Fundamentals Certified</h3>
 <p align="center">
   <a href="https://www.credly.com/badges/424592ee-8af7-488d-bf20-ba5032e37eac/public_url">
     <img src="microsoft-certified-azure-fundamentals-192.png" />
   </a>
 </p>
-<h2 align="center">AZ-900 Azure Fundamentals Certified</h2>
+<h3 align="center">AZ-900 Azure Fundamentals Certified</h3>
 
 #
 
